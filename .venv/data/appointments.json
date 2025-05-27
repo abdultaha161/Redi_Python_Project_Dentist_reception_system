@@ -1,0 +1,30 @@
+[
+    {
+        "id": "30056a5b",
+        "patient_id": "324355",
+        "date": "12.03.2024",
+        "time": "23:00",
+        "status": "booked"
+    },
+    {
+        "id": "b785f4db",
+        "patient_id": "5ef1d84f",
+        "date": "13.05.2025",
+        "time": "08:30",
+        "status": "booked"
+    },
+    {
+        "id": "9d71c6e5",
+        "patient_id": "34646",
+        "date": "13.05.2024",
+        "time": "23:00",
+        "status": "booked"
+    },
+    {
+        "id": "bc8b55ca",
+        "patient_id": "5ef1d84f",
+        "date": "23.05.2025",
+        "time": "23:55",
+        "status": "booked"
+    }
+]

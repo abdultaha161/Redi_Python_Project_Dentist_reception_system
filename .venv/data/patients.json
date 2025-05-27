@@ -1,0 +1,20 @@
+[
+    {
+        "id": "25d29437",
+        "first_name": "sad",
+        "last_name": "boi",
+        "age": 33,
+        "gender": "M",
+        "birthday": "12.04.1994",
+        "phone": "12322155"
+    },
+    {
+        "id": "5ef1d84f",
+        "first_name": "John",
+        "last_name": "Smith",
+        "age": 44,
+        "gender": "M",
+        "birthday": "15.01.1995",
+        "phone": "12345678"
+    }
+]
